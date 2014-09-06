@@ -1,6 +1,6 @@
 {
     "name": "lrrr-template",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Default template for lrr",
     "homepage": "https://github.com/jstrimpel/lrrr-template",
     "keywords": [
@@ -24,10 +24,6 @@
         "url": "https://github.com/jstrimpel/lrrr-template/issues"
     },
     "private": false,
-    "main": "index",
-    "bin": {
-        "lrrr": "index.js"
-    },
     "dependencies": {},
     "devDependencies": {}
 }
