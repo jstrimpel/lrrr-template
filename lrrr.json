@@ -12,5 +12,22 @@
                 }
             }
         }
+    },
+    "defaults": {
+        "add": {
+            "component": {
+                "def": "hello"
+            },
+            "model": {
+                "files": {
+                    "model/model.js"
+                }
+            },
+            "collection": {
+                "files": {
+                    "collection/collection.js"
+                }
+            }
+        }
     }
 }
