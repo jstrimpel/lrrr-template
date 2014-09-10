@@ -6,9 +6,7 @@
             },
             "components": {
                 "hello": {
-                    "files": [
-                        "views/index.hbs"
-                    ]
+                    "files": ["views/index.hbs"]
                 }
             }
         }
@@ -19,14 +17,10 @@
                 "def": "hello"
             },
             "model": {
-                "files": {
-                    "model/model.js"
-                }
+                "files": ["model/model.js"]
             },
             "collection": {
-                "files": {
-                    "collection/collection.js"
-                }
+                "files": ["collection/collection.js"]
             }
         }
     }
