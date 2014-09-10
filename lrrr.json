@@ -1,13 +1,15 @@
 {
-    "app": {
+    "create": {
         "app": {
-            "files": "*"
-        },
-        "components": {
-            "hello": {
-                "files": [
-                    "views/index.hbs"
-                ]
+            "app": {
+                "files": "*"
+            },
+            "components": {
+                "hello": {
+                    "files": [
+                        "views/index.hbs"
+                    ]
+                }
             }
         }
     }
